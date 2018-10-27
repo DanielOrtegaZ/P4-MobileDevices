@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Login</string>
+
+    <string name="nombre">Nombre:</string>
+    <string name="user">User:</string>
+    <string name="pass">Pass:</string>
+    <string name="legend">¿Aun no tienes cuenta? puedes hacer tu</string>
+
+    <string name="entrar">ENTRAR</string>
+    <string name="registro">REGISTRO</string>
+    <string name="aceptar">ACEPTAR</string>
+    <string name="cancelar">CANCELAR</string>
+</resources>
